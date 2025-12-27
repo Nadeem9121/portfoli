@@ -4,7 +4,7 @@ import card2 from "../../assets/images/portfolio-images/ecom.jpeg";
 import card3 from "../../assets/images/portfolio-images/card-3.png";
 import card4 from "../../assets/images/portfolio-images/cloud.jpg";
 import card5 from "../../assets/images/portfolio-images/busniess.jpeg";
-import card6 from "../../assets/images/portfolio-images/Automation.png";
+import card6 from "../../assets/images/portfolio-images/automation.png";
 
 const projectData = [
   {
